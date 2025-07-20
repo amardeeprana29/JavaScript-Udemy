@@ -25,6 +25,9 @@ console.log(courseName); // This will log 'undefined' because courseName is decl
 const number = 10;
 console.log(number);
 
+const percentage = 99.99;
+console.log(percentage);
+
 // How to name variables
 //fullName     camel case
 //fullname
