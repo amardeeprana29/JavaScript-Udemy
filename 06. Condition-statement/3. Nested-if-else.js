@@ -30,7 +30,7 @@ if(isLoggedIn && isEmailVerified && isPasswordCorrect){
     console.log("Please check your login details");
 }
 
-console.log("--------------------");
+console.log("---------------------");
 // example 2
 
 let manAge = 21;
