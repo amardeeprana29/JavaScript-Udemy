@@ -8,7 +8,7 @@ if(marks >= 90){
 } else if(marks >= 60){
     console.log("Grade C");
 } else {
-    console.log("Fail")
+    console.log("Fail- Please try again");
 }
 
 console.log("---------------------");
