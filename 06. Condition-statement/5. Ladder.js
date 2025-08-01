@@ -1,4 +1,16 @@
-//Example 1 : Find Grade based on Marks
+//exmample 1
+let loggedWithEmail = false;
+let loggedWithFB = false;
+let loggedWithGoogle = false;
+let loggedWithPhone = false;
+if(loggedWithEmail || loggedWithFB || loggedWithGoogle || loggedWithPhone){
+    console.log("you have succeses fully logged in and can access the app");
+} else {
+    console.log("you are not logged in, please login to access the app");
+}
+
+console.log("---------------------");
+//Example 2 : Find Grade based on Marks
 let marks = 55;
 
 if(marks >= 90){
@@ -13,7 +25,7 @@ if(marks >= 90){
 
 console.log("---------------------");
 
-// Example2 : Age group categorization
+// Example3 : Age group categorization
 let age = 100;
 
 if(age < 13){
