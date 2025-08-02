@@ -1,3 +1,4 @@
+// condition ? expressionIfTrue : expressionIfFalse 
 // Example 1
 let isLoggedIn = false;
 (isLoggedIn)? console.log("User is Logged In") : console.log("User is not Logged In");
