@@ -96,5 +96,5 @@ console.log(typeof name);
 
 let firstName = "Amardeep";
 let lastName = "Rana";
-console.log( firstName + "" + lastName)
-console.log( firstName + " " + lastName)
+console.log( firstName + " " + lastName);
+console.log( firstName + " " + lastName);

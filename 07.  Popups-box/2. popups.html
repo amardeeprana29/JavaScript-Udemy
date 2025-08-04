@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirm Box</title>
+</head>
+<body>
+    <script src="2. confirm.-box.js"></script>
+
+    <!-- Example 2: logged permission -->
+    <button onclick="confirm('Do you want to log out?')">
+        <script>
+            if(logout){
+                alert("You are logged out!");
+            } else {
+                alert("Logout cancelled.");
+            }
+        </script> 
+        Sign Out
+    </button>
+    
+</body>
+</html>
