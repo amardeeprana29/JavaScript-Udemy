@@ -4,7 +4,7 @@
 // basic example
 
 function greet(){
-    console.log("Hello Amar!");
+    console.log("Hello Amardeep!");
 }
 
 greet();
