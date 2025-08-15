@@ -8,3 +8,12 @@ function greet(){
 }
 
 greet();
+
+function addition(){
+    let a = 10;
+    let b = 50;
+    let sum = a + b;
+    console.log(sum);
+}
+
+addition();
