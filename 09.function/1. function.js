@@ -7,8 +7,7 @@ function greet(){
     console.log("Hello Amardeep!");
 }
 
-greet();
-
+// function to perform addition task 
 function addition(){
     let a = 10;
     let b = 50;
@@ -16,4 +15,13 @@ function addition(){
     console.log(sum);
 }
 
-addition();
+// function to perform subtraction task 
+function subtraction(){
+    let a = 100;
+    let b = 70;
+    let difference = a - b;
+    console.log(difference);
+}
+
+// call functions which you require task 
+subtraction();
