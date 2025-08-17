@@ -25,3 +25,4 @@ function subtraction(){
 
 // call functions which you require task 
 subtraction();
+addition();
