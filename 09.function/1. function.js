@@ -24,5 +24,27 @@ function subtraction(){
 }
 
 // call functions which you require task 
-subtraction();
-addition();
+// subtraction();
+// addition();
+
+// Example 1
+
+function superman(){
+    let name = "Amardeep";
+    console.log(name);
+}
+
+for(let i = 1; i<=5; i++){
+    // superman();
+}
+
+// or Example 1
+
+function hero(){
+    let name = "Amardeep Rana"
+    for(let i=1; i<=5; i++){
+        console.log(name);
+    }
+}
+
+hero();
