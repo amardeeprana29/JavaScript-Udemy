@@ -27,7 +27,7 @@ function subtraction(){
 // subtraction();
 // addition();
 
-// Example 1
+// Example 1 using for loop
 
 function superman(){
     let name = "Amardeep";
@@ -38,7 +38,7 @@ for(let i = 1; i<=5; i++){
     // superman();
 }
 
-// or Example 1
+// or Example 1 using for loop
 
 function hero(){
     let name = "Amardeep Rana"
