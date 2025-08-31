@@ -6,3 +6,13 @@ function greet(name){
 }
 
 greet("Amardeep Rana");
+
+console.log("-------------------");
+
+// example 2
+
+function addition( a, b){
+    console.log("Sum :" , a + b);
+}
+
+addition(20, 50);
