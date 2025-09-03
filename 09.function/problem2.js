@@ -4,7 +4,7 @@
 // step 2 : determine even and odd number in the array.
 // step 3 : calculate the sum
 
-// write even/odd function
+// 1. write even/odd function
 function check(num){
     if(num % 2 == 0){
         return true;

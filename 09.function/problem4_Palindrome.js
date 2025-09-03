@@ -1,6 +1,5 @@
 // using the reverse function write the function to check the string is palindrome or not
 // what is Palindrome ? : A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
-
 // reverse function
 function reverse(str){
     let reversedstr = "";
